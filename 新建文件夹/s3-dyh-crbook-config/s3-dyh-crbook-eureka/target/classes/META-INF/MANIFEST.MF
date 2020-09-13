@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: s3-dyh-crbook-index
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: dyh
+Implementation-Vendor-Id: com.yc
+Build-Jdk: 1.8.0_65
+Implementation-URL: https://spring.io/projects/spring-boot/s3-dyh-crbo
+ ok-parent1/s3-dyh-crbook-parent2/s3-dyh-crbook-index
+Created-By: Maven Integration for Eclipse
+

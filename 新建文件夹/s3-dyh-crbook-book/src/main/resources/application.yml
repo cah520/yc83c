@@ -1,0 +1,12 @@
+server: 
+   port: 8001
+   
+# 定义当前服务名
+spring: 
+   application: 
+      name: crbook
+   datasource: 
+      url: jdbc:mysql://127.0.0.1/c85-s3-ply-crbook?serverTimezone=UTC&CharacterEncoding=UTF-8&useSSL=false
+      username: root
+      password: a
+      driver-class-name: com.mysql.jdbc.Driver
